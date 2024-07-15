@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aumvashi&label=Profile%20views&color=0e75b6&style=flat" alt="aumvashi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumvashi" alt="aumvashi" /></a> </p>
+<p align="left"> <a href="https://github.com/aumvashi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumvashi" alt="aumvashi" /></a> </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=aumvashi)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📚 Currently Studying in **Parul University**
